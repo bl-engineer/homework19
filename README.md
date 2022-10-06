@@ -60,6 +60,14 @@ You are required to submit the following for review:
 
 ## Screenshot of Result: Text Editor
 
+<img width="1276" alt="Screen Shot 2022-10-05 at 8 38 55 PM" src="https://user-images.githubusercontent.com/15242022/194188696-c4fee447-5e2e-44f3-8cc1-56bc33ccfd72.png">
+
+
+<img width="1200" alt="Screen Shot 2022-10-05 at 8 37 50 PM" src="https://user-images.githubusercontent.com/15242022/194188889-52429a5e-3c78-4036-8627-11f14f422458.png">
+
+<img width="1616" alt="Screen Shot 2022-10-05 at 8 47 01 PM" src="https://user-images.githubusercontent.com/15242022/194189189-bd84c03b-e1f1-4b4f-affb-6825b9e28521.png">
+
+<img width="1616" alt="Screen Shot 2022-10-05 at 8 46 34 PM" src="https://user-images.githubusercontent.com/15242022/194189222-0745d300-872c-4e40-84b1-84b26e32e3a6.png">
 
 
 ---
